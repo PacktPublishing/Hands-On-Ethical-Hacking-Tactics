@@ -1,0 +1,7 @@
+Chapter 2 Updates and Corrections
+
+Lab 2 PG 54
+
+In the question asking you to use DomainTools.com, instead use research.domaintools.com
+
+This is because domain tools changed the website and their business model. 
